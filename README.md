@@ -2,7 +2,7 @@
 
 *NewsFirst* is a responsive, modern web application that fetches and displays the latest news headlines using the [NewsAPI](https://newsapi.org/). Users can click on category tabs in the navbar (like Business, Entertainment, Science, etc.) to filter and view news relevant to their interests.
 
-![NewsFirst Screenshot](./screenshot.jpg)
+![NewsFirst HomePage](screenshot/Screenshot.png)
 
 ---
 
@@ -32,7 +32,8 @@ git clone https://github.com/your-username/newsfirst.git
 cd newsfirst
 npm install
 npm start
-*Open your browser and navigate to:*
+```
+**Open your browser and navigate to:**
 ```bash
 http://localhost:3000
 ```
